@@ -1,0 +1,5 @@
+# Temperature Screen files to ignore:
+Temperature_Screen/Data/Data_Cleaning.ipynb
+Temperature_Screen/Data/Raw_Temperature_Screen.csv
+
+
