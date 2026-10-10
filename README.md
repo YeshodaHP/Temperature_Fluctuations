@@ -12,6 +12,5 @@
   - The Data folder contains:
     -  Boostrapped_Models: Contains the bootstrapped models for each cell line used, generated from Temperature_Screen_Analysis.ipynb
     -  Data_Processing:
-      -  Cleaned_Data: Contains a parsed and cleaned version of the Raw_Data files, sorted by which batch it is sourced from. The Combine_Data.ipynb notebook then uses the csv files within the folder to calculate the area under the growth curves of each of the cell lines to create ../Annotating/Raw_Temperature_Screen.csv
-      -  Annotating:
-        -  Contains the Add_Details.ipynb, which adds the semantic details of the experiment to the raw data in Raw_Temperature_Screen.csv, to produce Parsed_Temperature_Screen.csv
+        -  Cleaned_Data: Contains a parsed and cleaned version of the Raw_Data files, sorted by which batch it is sourced from. The Combine_Data.ipynb notebook then uses the csv files within the folder to calculate the area under the growth curves of each of the cell lines to create ../Annotating/Raw_Temperature_Screen.csv
+        -  Annotating: Contains the Add_Details.ipynb, which adds the semantic details of the experiment to the raw data in Raw_Temperature_Screen.csv, to produce Parsed_Temperature_Screen.csv
