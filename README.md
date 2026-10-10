@@ -1,5 +1,11 @@
 # Experimental evolution of *Chlamydomonas reinhardtii* in fluctuating versus constant temperature stress
 
+Here, we investigated the standing variation in thermal optima of ten Chlamydomonas reinhardtii strains from a broad geographic sample. We then experimentally evolved one strain for ~900 generations under three distinct temperature stress conditions: cold, hot and fluctuating. We found that those grown in constant environmental conditions became specialized to their environment of 20°C or 37°C. Contrary to our prediction that adaptation to fluctuating temperatures would compromise fitness at each extreme, those evolved in a fluctuating regime performed comparably to the specialists, suggesting no long-term cost of this generalist phenotype. We also tested the prediction that replicate lines evolved in a fluctuating regime may diverge from one another more than temperature specialists, but found no difference in the amount of among-line variance between growth regimes. Overall, despite our predictions that a fluctuating regime would hinder adaptation, we found a high degree of adaptability even when evolved in a variable environment.
+
+biorxiv doi: https://doi.org/10.64898/2026.02.10.705100
+
+Code and Collection of Data by Yeshoda Harry-Paul
+
 ## General File Layout
 - This repo is broken down into two folders: 1) Temperature_Screen and 2) Temperature_Evolution, in accordance with phase 1 and phase 2 of the research article.
 
